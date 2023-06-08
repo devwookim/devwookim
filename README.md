@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Wookim's%20Github&fontSize=90"/>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Wookim's%20Github&fontSize=90"/>
 	<!--%20 은 스페이스(공백) -->
 </div>
 <div align=center>
