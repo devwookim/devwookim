@@ -32,7 +32,6 @@
 	<br>
 	<img src="https://img.shields.io/badge/Tomcat-003545?style=flat&logo=ApacheTomcat&logoColor=white"/>
 	<img src="https://img.shields.io/badge/AWS-003545?style=flat&logo=AmazonAWS&logoColor=white"/>
-	<img src="https://img.shields.io/badge/SVN-003545?style=flat&logo=Subversion&logoColor=white"/>
 	<img src="https://img.shields.io/badge/GitHub-003545?style=flat&logo=GitHub&logoColor=white"/>
 </div>
 <div align=center>
