@@ -17,7 +17,6 @@
 	<img src="https://img.shields.io/badge/CSS3-003545?style=flat&logo=CSS3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/jQuery-003545?style=flat&logo=jQuery&logoColor=white"/>
 	<br>
-	<img src="https://img.shields.io/badge/Oracle%20SQL-003545?style=flat&logo=Oracle&logoColor=white"/>
 	<img src="https://img.shields.io/badge/MySQL-003545?style=flat&logo=MySQL&logoColor=white"/>
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
 </div>
